@@ -19,8 +19,8 @@ name = "camera_controllers"
 path = "src/lib.rs"
 
 [dependencies]
-bitflags = "1.0.0"
+bitflags = "1.2.1"
 piston3d-cam = "0.4.0"
 pistoncore-input = "0.28.0"
 vecmath = "1.0.0"
-quaternion = "0.4.0"
+quaternion = "0.4.1"
